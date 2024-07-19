@@ -1,0 +1,82 @@
+{
+    "workingProcess": [
+       {
+         "id": "1",
+         "title": "Case Review",
+         "icon": "text-6xl p-6 bi bi-file-earmark-text-fill",
+         "description": "Performing preliminary checks to assess whether the case can result in a substantial recovery, based on our experience."
+        },
+       {
+         "id": "2",
+         "title": "Confront The Entities",
+         "icon": "text-6xl p-6 bi bi-people-fill",
+         "description": "Systematically confronting the relevant entities that have facilitated the illicit transfer of your wealth."
+        },
+       {
+         "id": "3",
+         "title": "Gather The Evidence",
+         "icon": "text-6xl p-6 bi bi-search",
+         "description": "Collecting all the information and documentation required to successfully pursue your case."
+        },
+       {
+         "id": "4",
+         "title": "Get Your Money Back",
+         "icon": "text-6xl p-6 bi bi-currency-exchange",
+         "description": "We take pride in our track record and assure you that we’ll go to great lengths to get your money back."
+        }
+    ],
+    "ourServices":[
+      {
+        "id": "1",
+        "icon": "bi bi-wallet2",
+        "title": "FOREX SCAMS",
+        "description": "Unscrupulous individuals love running Forex scams as they know just how to make their ‘pitch’ appear genuine and lucrative. We’re here to help you secure your money back from these fraudsters."
+      },
+      {
+        "id":"2",
+        "icon":"bi bi-briefcase",
+        "title": "STOCK TRADING SCAMS",
+        "description": "Playing the market’ is something many have tried to achieve without success. Scammers in this field make empty, deceitful, promises that you may have fallen for. Rest assured we can help you get your money back."
+      },
+      {
+        "id":"3",
+        "icon":"bi bi-currency-bitcoin",
+        "title": "CRYPTO FRAUD",
+        "description": "Cryptocurrency use is growing but it’s hard to regulate, this means con artists are using this exciting new avenue as a way to scam you. Let us help you get back what you lost."
+      },
+      {
+        "id":"4",
+        "icon":"bi bi-currency-bitcoin",
+        "title": "BINARY OPTIONS",
+        "description": "One of the most common financial scams in 2021 and one we have helped a lot of clients with. Our team can help you recover your stolen funds and give you the tools to avoid the scams in the future."
+      },
+      {
+        "id":"5",
+        "icon":"bi bi-briefcase",
+        "title": "NIGERIAN SCAMS",
+        "description": "Traditionally this type of scam starts with an unsolicited mail proclaiming to be from a significant figure. This tends to take the form of a Nigerian prince or similar, this leads the user to be embroiled in a scam that involves the promise of a significant return for an initial sum you might be willing to give. Our recovery experts will help you look to reclaim your lost funds."
+      }
+    ],
+    "Testimonials":[
+      {
+        "id": "1",
+        "name": "John Trust",
+        "description": "I got scammed around a year ago. I was conned out of 75,000 GBP and did not know where to turn. A friend of mine recommended Cyberdarklight, and I went forward with them. They were nothing but professional and reassuring, they always kept me in the loop on what was going on. The Outcome of such professional service was the recovery of 65,000 GBP, and they are still working on recovering the rest. I am thankful and hope that more people can put their faith in them."
+      },
+      {
+        "id": "2",
+        "name": "Diva Dallas",
+        "description": "I was scammed out of thousands of dollars by a company, and after 3 months of trying to get my money back on my own, I found myself at a dead end. I was frustrated and didn’t know what to do. I decided to find a company that could help me get my money back and luckily enough, I found Cyberdarklight."
+      },
+      {
+        "id": "3",
+        "name": "Annie",
+        "description": "The best help someone could have offered me. These guys were on the case the day I submitted my report, and after I described my situation to these guys, they were on it and did their best to make the results in my favour. All the disputes they prepared were perfect and throughout the process they were with me and were giving me condolences. And after so much hard work and struggle finally I had justice, I have no one else to thank other than these guys."
+      },
+      {
+        "id": "4",
+        "name": "Chang",
+        "description": "I never thought I would be able to recover my funds back but after I gave all the required information to Cyberdarklight. I astonished by how fast they were able to recover my funds. I’m really grateful to Cyberdarklight"
+      }
+    ]
+}
